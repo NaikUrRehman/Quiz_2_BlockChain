@@ -1,5 +1,16 @@
 #Quiz_2_BlockChain
 
+
+
+
+#i200871
+#Naik Ur Rehman
+#Q2 Blockchain
+#Section A
+
+
+
+
 #initialize an existing directory as a Git repository
 git init
 
